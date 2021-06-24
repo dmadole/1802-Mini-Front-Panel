@@ -15,5 +15,7 @@ This is the front panel card for the [1802/Mini](https://github.com/dmadole/1802
 
 Gerber files for the PCBs and PDF schematics can be found in [Releases](https://github.com/dmadole/1802-Front-Panel/releases).
 
+BOMS and any applicable errata or other notes can be found in [notes](https://github.com/dmadole/1802-Mini-Front-Panel/tree/main/notes).
+
 ![1802/Mini Front Panel Front](https://github.com/dmadole/1802-Mini-Front-Panel/blob/main/photos/1802-Mini-Front-Panel-Rev-B-Assembled-Front.jpg)
 ![1802/Mini Front Panel Back](https://github.com/dmadole/1802-Mini-Front-Panel/blob/main/photos/1802-Mini-Front-Panel-Rev-B-Assembled-Back.jpg)
