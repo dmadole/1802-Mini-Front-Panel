@@ -4,6 +4,8 @@ Follow usual assembly practices, which I will not document here. I recommend ins
 
 There are a lot of options on this board and it's important to make sure all of them have been selected correctly. Some options are selected with jumpers on the front of the board, and some by bridging solder pads on the back of the board. The board will not work as expected without nearly all options selected one way or the other.
 
+Please see any [applicable errata](https://github.com/dmadole/1802-Mini-Front-Panel/tree/main/notes) before assembling.
+
 ## Input Switch Selection
 You can use either a push button or a toggle switch (like a momentary one) for the IN switch. There are two solder pads which will need to be closed on the pack of the board depending on which you use.
 
