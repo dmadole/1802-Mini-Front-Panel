@@ -13,7 +13,7 @@ This is the front panel card for the [1802/Mini](https://github.com/dmadole/1802
 * Stackable to processor card without blocking status LEDs
 * Highly annotated silkscreen documents settings and pins
 
-Gerber files for the PCBs and PDF schematics can be found in [Releases](https://github.com/dmadole/1802-Front-Panel/releases).
+Gerber files for the PCBs and PDF schematics can be found in [Releases](https://github.com/dmadole/1802-Mini-Front-Panel/releases).
 
 BOMS and any applicable errata or other notes can be found in [notes](https://github.com/dmadole/1802-Mini-Front-Panel/tree/main/notes).
 
