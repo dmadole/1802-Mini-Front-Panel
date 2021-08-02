@@ -42,7 +42,7 @@ The following explains how to operate the various modes on the 1802/Mini front p
 
 ## Single Step
   1. From reset, flip **LOAD** up _(displays will not change)_
-  2. Flip RUN up _(displays will change, but not meaningful)_
+  2. Flip **RUN** up _(displays will change, but not meaningful)_
   3. Each press of **INPUT** will step one machine cycle (displays show address and data busses)
   4. Repeat step 3 for as as many machine cycles as desired
   5. Flip **LOAD** down to go directly to run from current location and execute at full speed
