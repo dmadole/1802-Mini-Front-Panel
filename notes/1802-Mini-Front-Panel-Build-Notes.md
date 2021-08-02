@@ -29,3 +29,8 @@ Use EF4 jumper setting for compatibility with typical classic Elf software. The 
 
 I like to cut all the pins on the back of the board, even the IC sockets, so they are tight with the solder. This can help with clearance on stacked boards, especially with a metal can oscillator. I then also sand over the surface lightly with an emery board to even them a little and remove sharp edges. Of course if you take this latter step, you will need to clean the board well after and be careful since the dust is conductive and probably contains lead, depending on your materials.
 
+## Jumper Settings
+
+The following jumper settings are typical and will enable display and toggle switch input and output on port 4, and INPUT switch status on EF4. If you do not have specific other requirements, these are the recommended starting settings that most software will expect.
+
+![1802 Mini Front Panel Jumpers](https://github.com/dmadole/1802-Mini-Front-Panel/blob/main/photos/1802-mini-front-panel-jumpers-elfos.jpg)
