@@ -50,7 +50,7 @@ The following explains how to operate the various modes on the 1802/Mini front p
 
 > ### Notes on Run and Single Step Modes
 > * You can freely move back and forth between run and single-step modes by flipping the **LOAD** switch up to pause and single-step, or down to run.
-> * At higher clock speeds, displays in single-step mode may become out of sync with state LEDs on processor card, with the state LEDs reflecting the next processor cycle after what the data displays reflect. This is due to internal processor propagation delays. The speed at which this happens is dependent on the particular processor characteristics.
-> * At even higher clock speeds, the high byte of the address displays will become out of sync as well, and will reflect the next processor cycle after what the low address byte and data displays reflect. As with the prior note, this is dependent on the individual processor. Most processors will stay in sync to at least 2 Mhz.
+> * At higher clock speeds, displays in single-step mode may become out of sync with state LEDs on processor card, with the state LEDs reflecting the next processor cycle after what the data displays reflect. This is due to internal processor propagation delays. The speed at which this happens is dependent on the particular processor characteristics. Most processors will stay in sync on this point to at least 2 Mhz.
+> * At even higher clock speeds, the high byte of the address displays will become out of sync as well, and will reflect the next processor cycle after what the low address byte and data displays reflect. As with the prior note, this is dependent on the individual processor. Most processors will stay in sync on this point to at least 4 Mhz.
 > * You should return to reset following run before switching to load mode.
 
