@@ -17,5 +17,7 @@ Gerber files for the PCBs and PDF schematics can be found in [Releases](https://
 
 BOMS and any applicable errata or other notes can be found in [notes](https://github.com/dmadole/1802-Mini-Front-Panel/tree/main/notes).
 
+For availability of kits and bare PCBs please see http://madole.net/1802/mini/kits
+
 ![1802/Mini Front Panel Front](https://github.com/dmadole/1802-Mini-Front-Panel/blob/main/photos/1802-Mini-Front-Panel-Rev-B-Assembled-Front.jpg)
 ![1802/Mini Front Panel Back](https://github.com/dmadole/1802-Mini-Front-Panel/blob/main/photos/1802-Mini-Front-Panel-Rev-B-Assembled-Back.jpg)
